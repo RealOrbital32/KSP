@@ -1,0 +1,9 @@
+{
+  "filename": "NewHorizonsConfig.dll",
+  "author": "Orbital 32 (a.k.a. cigtu)",
+  "name": "KSP in OW",
+  "uniqueName": "O32.KSP",
+  "version": "1.0.0",
+  "owmlVersion": "2.1.0",
+  "dependencies": [ "xen.NewHorizons" ]
+}

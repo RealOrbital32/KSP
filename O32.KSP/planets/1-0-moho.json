@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Moho",
+	"starSystem": "O32.KSP",
+	"Base": {
+		"surfaceGravity": 3.3,
+		"surfaceSize": 157,
+		"hasMapMarker": true,
+		"ambientLight": 0.5
+	},
+	"Orbit": {
+		"semiMajorAxis": 20263,
+		"eccentricity": 0.2,
+		"inclination": 7,
+		"argumentOfPeriapsis": 15,
+		"longitudeOfAscendingNode": 70,
+		"primaryBody": "Kerbol (The Sun)",
+		"isMoon": false,
+		"siderealPeriod": 224
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/mohoH.png",
+		"textureMap": "planets/assets/mohoT.png",
+		"minHeight": 147,
+		"maxHeight": 167
+	}
+}

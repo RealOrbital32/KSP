@@ -1,0 +1,38 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Kerbol (The Sun)",
+	"starSystem": "O32.KSP",
+	"Base": {
+		"surfaceGravity": 70,
+		"surfaceSize": 4100,
+		"hasMapMarker": true,
+		"gravityFallOff": "inverseSquared",
+		"centerOfSolarSystem": true
+	},
+	"Orbit": {
+		"isStatic": true,
+		"siderealPeriod": 100
+	},
+	"Atmosphere": {
+		"size": 4100,
+		"fogTint": {
+			"r": 199,
+			"g": 67,
+			"b": 58,
+			"a": 255
+		},
+		"fogDensity": 0.4,
+		"fogSize": 2100
+	},
+	"Star": {
+		"size": 4000,
+		"tint": {
+			"r": 207,
+			"g": 197,
+			"b": 7,
+			"a": 255
+		},
+		"solarLuminosity": 0.9,
+		"lightRadius": 5000000
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Jool",
+	"starSystem": "O32.KSP",
+	"Base": {
+		"surfaceGravity": 30.3,
+		"surfaceSize": 3069,
+		"hasMapMarker": true,
+		"ambientLight": 0.5
+	},
+	"Orbit": {
+		"semiMajorAxis": 166773,
+		"eccentricity": 0.05,
+		"inclination": 1.304,
+		"argumentOfPeriapsis": 0,
+		"longitudeOfAscendingNode": 52,
+		"primaryBody": "Kerbol (The Sun)",
+		"isMoon": false,
+		"siderealPeriod": 4.7
+	},
+	"Atmosphere": {
+		"useAtmosphereShader": true,
+		"size": 3069,
+		"fogSize": 3069,
+		"fogDensity": 1,
+		"hasShockLayer": true,
+		"atmosphereSunIntensity": 0.5,
+		"atmosphereTint": {
+			"r": 24,
+			"g": 176,
+			"b": 21,
+			"a": 255
+		},
+		"fogTint": {
+			"r": 24,
+			"g": 176,
+			"b": 21,
+			"a": 255
+		},
+		"clouds": {
+			"texturePath": "planets/assets/joolG.png",
+			"capPath": "planets/assets/joolC.png",
+			"innerCloudRadius": 0,
+			"outerCloudRadius": 2969,
+			"rotationSpeed": 4
+		}
+	}
+}

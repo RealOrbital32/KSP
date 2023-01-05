@@ -1,0 +1,75 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Kerbin",
+	"starSystem": "O32.KSP",
+	"Spawn": {
+		"playerSpawnPoint": {
+			"x": -99.23111,
+			"y": 9.080154,
+			"z": 363.5148
+		},
+		"playerSpawnRotation": {
+			"x": 13.25123,
+			"y": 35.80648,
+			"z": 83.77199
+		},
+		"shipSpawnPoint": {
+			"x": -99.23111,
+			"y": 9.080154,
+			"z": 363.5148
+		},
+		"shipSpawnRotation": {
+			"x": 13.25123,
+			"y": 35.80648,
+			"z": 83.77199
+		}
+	},
+	"Base": {
+		"surfaceGravity": 12,
+		"surfaceSize": 376,
+		"hasMapMarker": true,
+		"ambientLight": 0.5
+	},
+	"Orbit": {
+		"semiMajorAxis": 52599,
+		"primaryBody": "Kerbol (The Sun)",
+		"isMoon": false,
+		"siderealPeriod": 20
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/kerbinH.png",
+		"textureMap": "planets/assets/kerbinT.png",
+		"minHeight": 376,
+		"maxHeight": 406
+	},
+	"Atmosphere": {
+		"useAtmosphereShader": true,
+		"hasOxygen": true,
+		"size": 506,
+		"fogSize": 506,
+		"fogDensity": 1,
+		"hasShockLayer": true,
+		"atmosphereSunIntensity": 0.8,
+		"atmosphereTint": {
+			"r": 80,
+			"g": 126,
+			"b": 242,
+			"a": 255
+		},
+		"fogTint": {
+			"r": 80,
+			"g": 126,
+			"b": 242,
+			"a": 255
+		}
+	},
+	"Water": {
+		"size": 383,
+		"tint": {
+			"r": 47,
+			"g": 94,
+			"b": 247,
+			"a": 255
+		}
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Vall",
+	"starSystem": "O32.KSP",
+	"Base": {
+		"surfaceGravity": 2.82,
+		"surfaceSize": 188,
+		"hasMapMarker": true,
+		"ambientLight": 0.5
+	},
+	"Orbit": {
+		"semiMajorAxis": 12315,
+		"primaryBody": "Jool",
+		"isMoon": true,
+		"siderealPeriod": 16.3
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/vallH.png",
+		"textureMap": "planets/assets/vallT.png",
+		"minHeight": 158,
+		"maxHeight": 218
+	}
+}

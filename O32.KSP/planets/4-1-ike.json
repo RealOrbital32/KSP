@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Ike",
+	"starSystem": "O32.KSP",
+	"Base": {
+		"surfaceGravity": 1.32,
+		"surfaceSize": 81,
+		"hasMapMarker": true,
+		"ambientLight": 0.5
+	},
+	"Orbit": {
+		"semiMajorAxis": 3200,
+		"eccentricity": 0.03,
+		"inclination": 0.2,
+		"argumentOfPeriapsis": 0,
+		"longitudeOfAscendingNode": 0,
+		"primaryBody": "Duna",
+		"isMoon": true,
+		"siderealPeriod": 12
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/ikeH.png",
+		"textureMap": "planets/assets/ikeT.png",
+		"minHeight": 71,
+		"maxHeight": 91
+	}
+}

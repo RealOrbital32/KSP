@@ -1,0 +1,56 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Eve",
+	"starSystem": "O32.KSP",
+	"Base": {
+		"surfaceGravity": 20.4,
+		"surfaceSize": 439,
+		"hasMapMarker": true,
+		"ambientLight": 0.5
+	},
+	"Orbit": {
+		"semiMajorAxis": 36832,
+		"eccentricity": 0.01,
+		"inclination": 2.1,
+		"argumentOfPeriapsis": 0,
+		"longitudeOfAscendingNode": 15,
+		"primaryBody": "Kerbol (The Sun)",
+		"isMoon": false,
+		"siderealPeriod": 12.5
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/eveH.png",
+		"textureMap": "planets/assets/eveT.png",
+		"minHeight": 409,
+		"maxHeight": 489
+	},
+	"Atmosphere": {
+		"useAtmosphereShader": true,
+		"size": 589,
+		"fogSize": 589,
+		"fogDensity": 1,
+		"hasShockLayer": true,
+		"atmosphereSunIntensity": 1,
+		"atmosphereTint": {
+			"r": 160,
+			"g": 12,
+			"b": 245,
+			"a": 255
+		},
+		"fogTint": {
+			"r": 160,
+			"g": 12,
+			"b": 245,
+			"a": 255
+		}
+	},
+	"Water": {
+		"size": 435,
+		"tint": {
+			"r": 92,
+			"g": 8,
+			"b": 161,
+			"a": 255
+		}
+	}
+}

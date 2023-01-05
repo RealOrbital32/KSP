@@ -1,0 +1,24 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Tylo",
+	"starSystem": "O32.KSP",
+	"Base": {
+		"surfaceGravity": 9.6,
+		"surfaceSize": 376,
+		"hasMapMarker": true,
+		"ambientLight": 0.5
+	},
+	"Orbit": {
+		"semiMajorAxis": 16850,
+		"inclination": 0.025,
+		"primaryBody": "Jool",
+		"isMoon": true,
+		"siderealPeriod": 36.4
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/tyloH.png",
+		"textureMap": "planets/assets/tyloT.png",
+		"minHeight": 336,
+		"maxHeight": 416
+	}
+}

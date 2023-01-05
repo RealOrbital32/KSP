@@ -1,0 +1,47 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Duna",
+	"starSystem": "O32.KSP",
+	"Base": {
+		"surfaceGravity": 3.6,
+		"surfaceSize": 201,
+		"hasMapMarker": true,
+		"ambientLight": 0.5
+	},
+	"Orbit": {
+		"semiMajorAxis": 80726,
+		"eccentricity": 0.051,
+		"inclination": 0.06,
+		"argumentOfPeriapsis": 0,
+		"longitudeOfAscendingNode": 135.5,
+		"primaryBody": "Kerbol (The Sun)",
+		"isMoon": false,
+		"siderealPeriod": 12
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/dunaH.png",
+		"textureMap": "planets/assets/dunaT.png",
+		"minHeight": 181,
+		"maxHeight": 221
+	},
+	"Atmosphere": {
+		"useAtmosphereShader": true,
+		"size": 271,
+		"fogSize": 271,
+		"fogDensity": 1,
+		"hasShockLayer": true,
+		"atmosphereSunIntensity": 0.5,
+		"atmosphereTint": {
+			"r": 230,
+			"g": 90,
+			"b": 34,
+			"a": 255
+		},
+		"fogTint": {
+			"r": 230,
+			"g": 90,
+			"b": 34,
+			"a": 255
+		}
+	}
+}

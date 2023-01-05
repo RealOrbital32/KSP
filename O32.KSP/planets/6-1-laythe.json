@@ -1,0 +1,53 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Laythe",
+	"starSystem": "O32.KSP",
+	"Base": {
+		"surfaceGravity": 9.6,
+		"surfaceSize": 314,
+		"hasMapMarker": true,
+		"ambientLight": 0.5
+	},
+	"Orbit": {
+		"semiMajorAxis": 8718,
+		"primaryBody": "Jool",
+		"isMoon": true,
+		"siderealPeriod": -3.06
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/laytheH.png",
+		"textureMap": "planets/assets/laytheT.png",
+		"minHeight": 294,
+		"maxHeight": 324
+	},
+	"Atmosphere": {
+		"useAtmosphereShader": true,
+		"hasOxygen": true,
+		"size": 374,
+		"fogSize": 374,
+		"fogDensity": 1,
+		"hasShockLayer": true,
+		"atmosphereSunIntensity": 0.65,
+		"atmosphereTint": {
+			"r": 75,
+			"g": 92,
+			"b": 194,
+			"a": 255
+		},
+		"fogTint": {
+			"r": 75,
+			"g": 92,
+			"b": 194,
+			"a": 255
+		}
+	},
+	"Water": {
+		"size": 314,
+		"tint": {
+			"r": 75,
+			"g": 92,
+			"b": 194,
+			"a": 255
+		}
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Mun",
+	"starSystem": "O32.KSP",
+	"Base": {
+		"surfaceGravity": 1.9,
+		"surfaceSize": 125,
+		"hasMapMarker": true,
+		"ambientLight": 0.5
+	},
+	"Orbit": {
+		"semiMajorAxis": 2400,
+		"primaryBody": "Kerbin",
+		"isMoon": true,
+		"siderealPeriod": 24
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/munH.png",
+		"textureMap": "planets/assets/munT.png",
+		"minHeight": 105,
+		"maxHeight": 145
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Pol",
+	"starSystem": "O32.KSP",
+	"Base": {
+		"surfaceGravity": 0.456,
+		"surfaceSize": 27,
+		"hasMapMarker": true,
+		"ambientLight": 0.5
+	},
+	"Orbit": {
+		"semiMajorAxis": 38989,
+		"eccentricity": 0.171,
+		"inclination": 4.25,
+		"argumentOfPeriapsis": 15,
+		"longitudeOfAscendingNode": 2,
+		"primaryBody": "Jool",
+		"isMoon": true,
+		"siderealPeriod": 164
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/polH.png",
+		"textureMap": "planets/assets/polT.png",
+		"minHeight": 22,
+		"maxHeight": 32
+	}
+}
