@@ -22,6 +22,7 @@
 		"heightMap": "planets/assets/ikeH.png",
 		"textureMap": "planets/assets/ikeT.png",
 		"minHeight": 71,
-		"maxHeight": 91
+		"maxHeight": 91,
+		"resolution": 600
 	}
 }

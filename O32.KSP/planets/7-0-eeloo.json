@@ -22,6 +22,7 @@
 		"heightMap": "planets/assets/eelooH.png",
 		"textureMap": "planets/assets/eelooT.png",
 		"minHeight": 111,
-		"maxHeight": 151
+		"maxHeight": 151,
+		"resolution": 600
 	}
 }

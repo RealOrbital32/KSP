@@ -18,6 +18,7 @@
 		"heightMap": "planets/assets/munH.png",
 		"textureMap": "planets/assets/munT.png",
 		"minHeight": 105,
-		"maxHeight": 145
+		"maxHeight": 145,
+		"resolution": 600
 	}
 }

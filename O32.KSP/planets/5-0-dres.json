@@ -22,6 +22,7 @@
 		"heightMap": "planets/assets/dresH.png",
 		"textureMap": "planets/assets/dresT.png",
 		"minHeight": 76,
-		"maxHeight": 96
+		"maxHeight": 96,
+		"resolution": 600
 	}
 }

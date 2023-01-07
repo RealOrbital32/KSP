@@ -19,6 +19,7 @@
 		"heightMap": "planets/assets/tyloH.png",
 		"textureMap": "planets/assets/tyloT.png",
 		"minHeight": 336,
-		"maxHeight": 416
+		"maxHeight": 416,
+		"resolution": 600
 	}
 }

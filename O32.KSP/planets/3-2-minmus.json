@@ -22,6 +22,7 @@
 		"heightMap": "planets/assets/minmusH.png",
 		"textureMap": "planets/assets/minmusT.png",
 		"minHeight": 32,
-		"maxHeight": 42
+		"maxHeight": 42,
+		"resolution": 600
 	}
 }

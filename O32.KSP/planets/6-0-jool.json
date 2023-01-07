@@ -44,5 +44,58 @@
 			"outerCloudRadius": 2969,
 			"rotationSpeed": 4
 		}
+	},
+	"ProcGen": {
+		"color": {
+			"r": 24,
+			"g": 176,
+			"b": 21,
+			"a": 255
+		},
+		"scale": 100
+	},
+	"Water": {
+		"size": 100,
+		"tint": {
+			"r": 24,
+			"g": 176,
+			"b": 21,
+			"a": 255
+		}
+	},
+	"Volumes": {
+		"notificationVolumes": [
+			{
+				"entryNotification": {
+					"displayMessage": "WARNING: HIGH PRESSURE"
+				},
+				"radius": 3050
+			}
+		],
+		"visorEffects": {
+			"frostEffectVolumes": [
+				{
+					"radius": 2969
+				}
+			]
+		},
+		"interferenceVolumes": [
+			{
+				"radius": 2969
+			}
+		],
+		"fluidVolumes": [
+			{
+				"density": 10,
+				"type": "cloud",
+				"radius": 2969
+			}
+		],
+		"hazardVolumes": [
+			{
+				"type": "sandfall",
+				"radius": 2969
+			}
+		]
 	}
 }

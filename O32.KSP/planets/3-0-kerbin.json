@@ -4,9 +4,9 @@
 	"starSystem": "O32.KSP",
 	"Spawn": {
 		"playerSpawnPoint": {
-			"x": -99.23111,
-			"y": 9.080154,
-			"z": 363.5148
+			"x": -102.23111,
+			"y": 14.080154,
+			"z": 366.5148
 		},
 		"playerSpawnRotation": {
 			"x": 13.25123,
@@ -14,9 +14,9 @@
 			"z": 83.77199
 		},
 		"shipSpawnPoint": {
-			"x": -99.23111,
-			"y": 9.080154,
-			"z": 363.5148
+			"x": -109.23111,
+			"y": 19.080154,
+			"z": 373.5148
 		},
 		"shipSpawnRotation": {
 			"x": 13.25123,
@@ -40,7 +40,8 @@
 		"heightMap": "planets/assets/kerbinH.png",
 		"textureMap": "planets/assets/kerbinT.png",
 		"minHeight": 376,
-		"maxHeight": 406
+		"maxHeight": 406,
+		"resolution": 800
 	},
 	"Atmosphere": {
 		"useAtmosphereShader": true,

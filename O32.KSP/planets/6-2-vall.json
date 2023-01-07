@@ -18,6 +18,7 @@
 		"heightMap": "planets/assets/vallH.png",
 		"textureMap": "planets/assets/vallT.png",
 		"minHeight": 158,
-		"maxHeight": 218
+		"maxHeight": 218,
+		"resolution": 600
 	}
 }

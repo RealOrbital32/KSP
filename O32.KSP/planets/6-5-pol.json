@@ -22,6 +22,7 @@
 		"heightMap": "planets/assets/polH.png",
 		"textureMap": "planets/assets/polT.png",
 		"minHeight": 22,
-		"maxHeight": 32
+		"maxHeight": 32,
+		"resolution": 600
 	}
 }

@@ -22,7 +22,8 @@
 		"heightMap": "planets/assets/eveH.png",
 		"textureMap": "planets/assets/eveT.png",
 		"minHeight": 409,
-		"maxHeight": 489
+		"maxHeight": 489,
+		"resolution": 600
 	},
 	"Atmosphere": {
 		"useAtmosphereShader": true,

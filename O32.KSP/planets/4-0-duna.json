@@ -22,7 +22,8 @@
 		"heightMap": "planets/assets/dunaH.png",
 		"textureMap": "planets/assets/dunaT.png",
 		"minHeight": 181,
-		"maxHeight": 221
+		"maxHeight": 221,
+		"resolution": 600
 	},
 	"Atmosphere": {
 		"useAtmosphereShader": true,

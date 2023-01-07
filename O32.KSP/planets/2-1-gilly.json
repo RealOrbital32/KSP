@@ -22,6 +22,7 @@
 		"heightMap": "planets/assets/gillyH.png",
 		"textureMap": "planets/assets/gillyT.png",
 		"minHeight": 10,
-		"maxHeight": 16
+		"maxHeight": 16,
+		"resolution": 600
 	},
 }

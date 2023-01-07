@@ -22,6 +22,7 @@
 		"heightMap": "planets/assets/bopH.png",
 		"textureMap": "planets/assets/bopT.png",
 		"minHeight": 32,
-		"maxHeight": 48
+		"maxHeight": 48,
+		"resolution": 600
 	}
 }

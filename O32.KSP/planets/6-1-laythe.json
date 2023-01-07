@@ -18,7 +18,8 @@
 		"heightMap": "planets/assets/laytheH.png",
 		"textureMap": "planets/assets/laytheT.png",
 		"minHeight": 294,
-		"maxHeight": 324
+		"maxHeight": 324,
+		"resolution": 600
 	},
 	"Atmosphere": {
 		"useAtmosphereShader": true,
